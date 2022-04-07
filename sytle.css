@@ -3,8 +3,11 @@
   height: 30px;
   background-color: red;
 }
+.text-s {
+  color: #050a30;
+}
 .blue {
-  background-color: blue;
+  background-color: #7ec8e3;
 }
 .yellow {
   height: 30px;
