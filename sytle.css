@@ -1,0 +1,16 @@
+.red {
+  display: block;
+  height: 30px;
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.yellow {
+  height: 30px;
+  background-color: yellow;
+}
+.green {
+  height: 30px;
+  background-color: green;
+}
